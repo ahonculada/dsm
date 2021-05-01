@@ -1,0 +1,3 @@
+baseURL = "http://dsmblog.org/"
+languageCode = "en-us"
+title = "Distributed Shared Memory"
