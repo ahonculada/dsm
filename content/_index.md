@@ -6,4 +6,4 @@ draft: false
 ![warbler](/img/warbler.jpg)
 
 
-Fundamentals of Parallel Multicore Architecture
+A place to store some [notes](/notes) on parallelism in multicore processors.
